@@ -8,6 +8,11 @@ body {
     background: var(--dark-gray);
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 nav {
     display: flex;
     text-align: center;
